@@ -1,0 +1,10 @@
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\bin\Debug\Tarea5MATRIZ.exe.config
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\bin\Debug\Tarea5MATRIZ.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\bin\Debug\Tarea5MATRIZ.pdb
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.Form1.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.Properties.Resources.resources
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.exe
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.pdb
+C:\Users\brend\Desktop\2CUATRI_BREN\Tarea5MATRIZ\Tarea5MATRIZ\obj\Debug\Tarea5MATRIZ.formPolimorfismo2.resources
